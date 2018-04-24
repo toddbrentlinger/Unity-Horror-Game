@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 6d5b07b3c1b25ee488722cf5b3065751
+timeCreated: 1470874243
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bedroom01
+    100002: Bedroom02
+    100004: Bedroom_Walls
+    100006: BedroomFloor
+    100008: BedroomWallTrimBottom
+    100010: BedroomWallTrimTop
+    100012: Blender Extra
+    100014: Camera
+    100016: Cube
+    100018: Dining
+    100020: Dining Room_Floor
+    100022: Dining Room_Walls
+    100024: DiningChair01
+    100026: DiningChair01.001
+    100028: DiningChair01.002
+    100030: DiningChair01.003
+    100032: DiningChair01.004
+    100034: DiningChair01.005
+    100036: DiningChair01.006
+    100038: DiningChair01.007
+    100040: DiningRoomSet
+    100042: DiningRoomTrimBottom
+    100044: DiningRoomTrimTop
+    100046: DiningTable
+    100048: Door
+    100050: Door Frame
+    100052: Door Frame.001
+    100054: Door Frame.002
+    100056: Door Frame.003
+    100058: Door Frame.004
+    100060: Door Frame.005
+    100062: Door Frame.006
+    100064: Door01
+    100066: Door01.001
+    100068: DoorPrototype
+    100070: Exterior
+    100072: Family Room_Floor
+    100074: Family Room_Walls
+    100076: Famliy
+    100078: Foyer
+    100080: Foyer_Ceiling
+    100082: Foyer_Floor
+    100084: Foyer_Walls
+    100086: Hallway
+    100088: //RootNode
+    100090: KitchenNook
+    100092: KitchenNook_Ceiling
+    100094: KitchenNook_Floor
+    100096: KitchenNook_Walls
+    100098: Lamp
+    100100: Lamp.001
+    100102: Living Room
+    100104: Living Room_Floor
+    100106: Living Room_Walls
+    100108: Living RoomTrimBottom
+    100110: Living RoomTrimTop
+    100112: LivingRoomWindow
+    100114: LivingRoomWindow.001
+    100116: LivingRoomWindow.002
+    100118: LivingRoomWindow.003
+    100120: LivingRoomWindow.004
+    100122: Render Test
+    100124: StairBottom
+    100126: StairRailHandle
+    100128: StairRailing
+    100130: Stairs03
+    100132: Stairs03_Riser
+    100134: Stairs03_Steps
+    100136: Stairs03_Walls
+    100138: Window02_Frame
+    100140: Window02_Frame.001
+    100142: Window02_Frame.002
+    100144: Window02_Frame.003
+    100146: Window02_Frame.004
+    100148: Window02_Frame.005
+    100150: Window02_Frame.006
+    100152: Window02_Frame.007
+    100154: Window02_Frame.008
+    100156: Window02_Frame.009
+    100158: Window02_Frame.010
+    100160: Window02_Frame.011
+    400000: Bedroom01
+    400002: Bedroom02
+    400004: Bedroom_Walls
+    400006: BedroomFloor
+    400008: BedroomWallTrimBottom
+    400010: BedroomWallTrimTop
+    400012: Blender Extra
+    400014: Camera
+    400016: Cube
+    400018: Dining
+    400020: Dining Room_Floor
+    400022: Dining Room_Walls
+    400024: DiningChair01
+    400026: DiningChair01.001
+    400028: DiningChair01.002
+    400030: DiningChair01.003
+    400032: DiningChair01.004
+    400034: DiningChair01.005
+    400036: DiningChair01.006
+    400038: DiningChair01.007
+    400040: DiningRoomSet
+    400042: DiningRoomTrimBottom
+    400044: DiningRoomTrimTop
+    400046: DiningTable
+    400048: Door
+    400050: Door Frame
+    400052: Door Frame.001
+    400054: Door Frame.002
+    400056: Door Frame.003
+    400058: Door Frame.004
+    400060: Door Frame.005
+    400062: Door Frame.006
+    400064: Door01
+    400066: Door01.001
+    400068: DoorPrototype
+    400070: Exterior
+    400072: Family Room_Floor
+    400074: Family Room_Walls
+    400076: Famliy
+    400078: Foyer
+    400080: Foyer_Ceiling
+    400082: Foyer_Floor
+    400084: Foyer_Walls
+    400086: Hallway
+    400088: //RootNode
+    400090: KitchenNook
+    400092: KitchenNook_Ceiling
+    400094: KitchenNook_Floor
+    400096: KitchenNook_Walls
+    400098: Lamp
+    400100: Lamp.001
+    400102: Living Room
+    400104: Living Room_Floor
+    400106: Living Room_Walls
+    400108: Living RoomTrimBottom
+    400110: Living RoomTrimTop
+    400112: LivingRoomWindow
+    400114: LivingRoomWindow.001
+    400116: LivingRoomWindow.002
+    400118: LivingRoomWindow.003
+    400120: LivingRoomWindow.004
+    400122: Render Test
+    400124: StairBottom
+    400126: StairRailHandle
+    400128: StairRailing
+    400130: Stairs03
+    400132: Stairs03_Riser
+    400134: Stairs03_Steps
+    400136: Stairs03_Walls
+    400138: Window02_Frame
+    400140: Window02_Frame.001
+    400142: Window02_Frame.002
+    400144: Window02_Frame.003
+    400146: Window02_Frame.004
+    400148: Window02_Frame.005
+    400150: Window02_Frame.006
+    400152: Window02_Frame.007
+    400154: Window02_Frame.008
+    400156: Window02_Frame.009
+    400158: Window02_Frame.010
+    400160: Window02_Frame.011
+    2300000: Bedroom02
+    2300002: Bedroom_Walls
+    2300004: BedroomFloor
+    2300006: BedroomWallTrimBottom
+    2300008: BedroomWallTrimTop
+    2300010: Cube
+    2300012: Dining Room_Floor
+    2300014: Dining Room_Walls
+    2300016: DiningChair01
+    2300018: DiningChair01.001
+    2300020: DiningChair01.002
+    2300022: DiningChair01.003
+    2300024: DiningChair01.004
+    2300026: DiningChair01.005
+    2300028: DiningChair01.006
+    2300030: DiningChair01.007
+    2300032: DiningRoomTrimBottom
+    2300034: DiningRoomTrimTop
+    2300036: DiningTable
+    2300038: Door
+    2300040: Door Frame
+    2300042: Door Frame.001
+    2300044: Door Frame.002
+    2300046: Door Frame.003
+    2300048: Door Frame.004
+    2300050: Door Frame.005
+    2300052: Door Frame.006
+    2300054: Door01
+    2300056: Door01.001
+    2300058: DoorPrototype
+    2300060: Exterior
+    2300062: Family Room_Floor
+    2300064: Family Room_Walls
+    2300066: Foyer_Ceiling
+    2300068: Foyer_Floor
+    2300070: Foyer_Walls
+    2300072: Hallway
+    2300074: KitchenNook_Ceiling
+    2300076: KitchenNook_Floor
+    2300078: KitchenNook_Walls
+    2300080: Living Room_Floor
+    2300082: Living Room_Walls
+    2300084: Living RoomTrimBottom
+    2300086: Living RoomTrimTop
+    2300088: LivingRoomWindow
+    2300090: LivingRoomWindow.001
+    2300092: LivingRoomWindow.002
+    2300094: LivingRoomWindow.003
+    2300096: LivingRoomWindow.004
+    2300098: StairBottom
+    2300100: StairRailHandle
+    2300102: StairRailing
+    2300104: Stairs03_Riser
+    2300106: Stairs03_Steps
+    2300108: Stairs03_Walls
+    2300110: Window02_Frame
+    2300112: Window02_Frame.001
+    2300114: Window02_Frame.002
+    2300116: Window02_Frame.003
+    2300118: Window02_Frame.004
+    2300120: Window02_Frame.005
+    2300122: Window02_Frame.006
+    2300124: Window02_Frame.007
+    2300126: Window02_Frame.008
+    2300128: Window02_Frame.009
+    2300130: Window02_Frame.010
+    2300132: Window02_Frame.011
+    3300000: Bedroom02
+    3300002: Bedroom_Walls
+    3300004: BedroomFloor
+    3300006: BedroomWallTrimBottom
+    3300008: BedroomWallTrimTop
+    3300010: Cube
+    3300012: Dining Room_Floor
+    3300014: Dining Room_Walls
+    3300016: DiningChair01
+    3300018: DiningChair01.001
+    3300020: DiningChair01.002
+    3300022: DiningChair01.003
+    3300024: DiningChair01.004
+    3300026: DiningChair01.005
+    3300028: DiningChair01.006
+    3300030: DiningChair01.007
+    3300032: DiningRoomTrimBottom
+    3300034: DiningRoomTrimTop
+    3300036: DiningTable
+    3300038: Door
+    3300040: Door Frame
+    3300042: Door Frame.001
+    3300044: Door Frame.002
+    3300046: Door Frame.003
+    3300048: Door Frame.004
+    3300050: Door Frame.005
+    3300052: Door Frame.006
+    3300054: Door01
+    3300056: Door01.001
+    3300058: DoorPrototype
+    3300060: Exterior
+    3300062: Family Room_Floor
+    3300064: Family Room_Walls
+    3300066: Foyer_Ceiling
+    3300068: Foyer_Floor
+    3300070: Foyer_Walls
+    3300072: Hallway
+    3300074: KitchenNook_Ceiling
+    3300076: KitchenNook_Floor
+    3300078: KitchenNook_Walls
+    3300080: Living Room_Floor
+    3300082: Living Room_Walls
+    3300084: Living RoomTrimBottom
+    3300086: Living RoomTrimTop
+    3300088: LivingRoomWindow
+    3300090: LivingRoomWindow.001
+    3300092: LivingRoomWindow.002
+    3300094: LivingRoomWindow.003
+    3300096: LivingRoomWindow.004
+    3300098: StairBottom
+    3300100: StairRailHandle
+    3300102: StairRailing
+    3300104: Stairs03_Riser
+    3300106: Stairs03_Steps
+    3300108: Stairs03_Walls
+    3300110: Window02_Frame
+    3300112: Window02_Frame.001
+    3300114: Window02_Frame.002
+    3300116: Window02_Frame.003
+    3300118: Window02_Frame.004
+    3300120: Window02_Frame.005
+    3300122: Window02_Frame.006
+    3300124: Window02_Frame.007
+    3300126: Window02_Frame.008
+    3300128: Window02_Frame.009
+    3300130: Window02_Frame.010
+    3300132: Window02_Frame.011
+    4300000: DiningChair01
+    4300002: DiningChair01.001
+    4300004: DiningChair01.002
+    4300006: DiningChair01.003
+    4300008: DiningChair01.004
+    4300010: DiningChair01.005
+    4300012: DiningChair01.006
+    4300014: DiningChair01.007
+    4300016: DiningTable
+    4300018: Family Room_Floor
+    4300020: Family Room_Walls
+    4300022: LivingRoomWindow.004
+    4300024: Exterior
+    4300026: DiningRoomTrimBottom
+    4300028: DiningRoomTrimTop
+    4300030: Window02_Frame.011
+    4300032: Window02_Frame.010
+    4300034: Window02_Frame.009
+    4300036: LivingRoomWindow.003
+    4300038: Dining Room_Floor
+    4300040: Dining Room_Walls
+    4300042: LivingRoomWindow.002
+    4300044: Window02_Frame.008
+    4300046: Window02_Frame.007
+    4300048: Window02_Frame.006
+    4300050: LivingRoomWindow.001
+    4300052: LivingRoomWindow
+    4300054: Living RoomTrimTop
+    4300056: Living RoomTrimBottom
+    4300058: Window02_Frame.001
+    4300060: Window02_Frame
+    4300062: Living Room_Floor
+    4300064: Living Room_Walls
+    4300066: Door Frame.006
+    4300068: DoorPrototype
+    4300070: Cube
+    4300072: Door Frame.005
+    4300074: Door01.001
+    4300076: Door Frame.004
+    4300078: Door Frame.003
+    4300080: Door Frame.002
+    4300082: Door01
+    4300084: Door Frame.001
+    4300086: StairRailHandle
+    4300088: StairRailing
+    4300090: StairBottom
+    4300092: Stairs03_Steps
+    4300094: Stairs03_Riser
+    4300096: Stairs03_Walls
+    4300098: Foyer_Ceiling
+    4300100: Foyer_Walls
+    4300102: Foyer_Floor
+    4300104: BedroomFloor
+    4300106: BedroomWallTrimTop
+    4300108: BedroomWallTrimBottom
+    4300110: Window02_Frame.005
+    4300112: Window02_Frame.004
+    4300114: Window02_Frame.003
+    4300116: Window02_Frame.002
+    4300118: Bedroom_Walls
+    4300120: Door
+    4300122: Door Frame
+    4300124: Bedroom02
+    4300126: Hallway
+    4300128: KitchenNook_Ceiling
+    4300130: KitchenNook_Floor
+    4300132: KitchenNook_Walls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

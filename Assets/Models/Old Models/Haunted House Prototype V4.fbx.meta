@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 3418556352af2ee4ab7c1851b38eff93
+timeCreated: 1470874224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Dining Room
+    100004: Dining Room_Ceiling
+    100006: Dining Room_Floor
+    100008: Dining Room_Walls
+    100010: Family Room
+    100012: Family Room_Ceiling
+    100014: Family Room_Floor
+    100016: Family Room_Walls
+    100018: FirstToSecond
+    100020: Foyer
+    100022: Foyer_Ceiling
+    100024: Foyer_Floor
+    100026: Foyer_Walls
+    100028: FoyerToDining
+    100030: FoyerToKitchen
+    100032: FoyerToLiving
+    100034: Hallway
+    100036: //RootNode
+    100038: KitchenNook
+    100040: KitchenNook_Ceiling
+    100042: KitchenNook_Floor
+    100044: KitchenNook_Walls
+    100046: KitchenToDining
+    100048: KitchenToFamily
+    100050: Lamp
+    100052: Lamp.001
+    100054: Living Room
+    100056: Living Room_Ceiling
+    100058: Living Room_Floor
+    100060: Living Room_Walls
+    100062: LivingToFamily
+    100064: Stairs
+    100066: Stairs.001
+    100068: Stairs.002
+    100070: Stairs02
+    100072: Stairs03
+    100074: Stairs03_Riser
+    100076: Stairs03_Steps
+    100078: Stairs03_Walls
+    100080: Transitions
+    100082: Window01
+    100084: Window01.001
+    100086: Window01.002
+    100088: Window01.003
+    400000: Camera
+    400002: Dining Room
+    400004: Dining Room_Ceiling
+    400006: Dining Room_Floor
+    400008: Dining Room_Walls
+    400010: Family Room
+    400012: Family Room_Ceiling
+    400014: Family Room_Floor
+    400016: Family Room_Walls
+    400018: FirstToSecond
+    400020: Foyer
+    400022: Foyer_Ceiling
+    400024: Foyer_Floor
+    400026: Foyer_Walls
+    400028: FoyerToDining
+    400030: FoyerToKitchen
+    400032: FoyerToLiving
+    400034: Hallway
+    400036: //RootNode
+    400038: KitchenNook
+    400040: KitchenNook_Ceiling
+    400042: KitchenNook_Floor
+    400044: KitchenNook_Walls
+    400046: KitchenToDining
+    400048: KitchenToFamily
+    400050: Lamp
+    400052: Lamp.001
+    400054: Living Room
+    400056: Living Room_Ceiling
+    400058: Living Room_Floor
+    400060: Living Room_Walls
+    400062: LivingToFamily
+    400064: Stairs
+    400066: Stairs.001
+    400068: Stairs.002
+    400070: Stairs02
+    400072: Stairs03
+    400074: Stairs03_Riser
+    400076: Stairs03_Steps
+    400078: Stairs03_Walls
+    400080: Transitions
+    400082: Window01
+    400084: Window01.001
+    400086: Window01.002
+    400088: Window01.003
+    2300000: Dining Room_Ceiling
+    2300002: Dining Room_Floor
+    2300004: Dining Room_Walls
+    2300006: Family Room_Ceiling
+    2300008: Family Room_Floor
+    2300010: Family Room_Walls
+    2300012: FirstToSecond
+    2300014: Foyer_Ceiling
+    2300016: Foyer_Floor
+    2300018: Foyer_Walls
+    2300020: FoyerToDining
+    2300022: FoyerToKitchen
+    2300024: FoyerToLiving
+    2300026: Hallway
+    2300028: KitchenNook_Ceiling
+    2300030: KitchenNook_Floor
+    2300032: KitchenNook_Walls
+    2300034: KitchenToDining
+    2300036: KitchenToFamily
+    2300038: Living Room_Ceiling
+    2300040: Living Room_Floor
+    2300042: Living Room_Walls
+    2300044: LivingToFamily
+    2300046: Stairs
+    2300048: Stairs.001
+    2300050: Stairs.002
+    2300052: Stairs02
+    2300054: Stairs03_Riser
+    2300056: Stairs03_Steps
+    2300058: Stairs03_Walls
+    2300060: Window01
+    2300062: Window01.001
+    2300064: Window01.002
+    2300066: Window01.003
+    3300000: Dining Room_Ceiling
+    3300002: Dining Room_Floor
+    3300004: Dining Room_Walls
+    3300006: Family Room_Ceiling
+    3300008: Family Room_Floor
+    3300010: Family Room_Walls
+    3300012: FirstToSecond
+    3300014: Foyer_Ceiling
+    3300016: Foyer_Floor
+    3300018: Foyer_Walls
+    3300020: FoyerToDining
+    3300022: FoyerToKitchen
+    3300024: FoyerToLiving
+    3300026: Hallway
+    3300028: KitchenNook_Ceiling
+    3300030: KitchenNook_Floor
+    3300032: KitchenNook_Walls
+    3300034: KitchenToDining
+    3300036: KitchenToFamily
+    3300038: Living Room_Ceiling
+    3300040: Living Room_Floor
+    3300042: Living Room_Walls
+    3300044: LivingToFamily
+    3300046: Stairs
+    3300048: Stairs.001
+    3300050: Stairs.002
+    3300052: Stairs02
+    3300054: Stairs03_Riser
+    3300056: Stairs03_Steps
+    3300058: Stairs03_Walls
+    3300060: Window01
+    3300062: Window01.001
+    3300064: Window01.002
+    3300066: Window01.003
+    4300000: Stairs03_Steps
+    4300002: Stairs03_Riser
+    4300004: Stairs03_Walls
+    4300006: Window01.003
+    4300008: Window01.002
+    4300010: Window01.001
+    4300012: Window01
+    4300014: Stairs02
+    4300016: Hallway
+    4300018: Stairs.002
+    4300020: Stairs.001
+    4300022: Stairs
+    4300024: Dining Room_Ceiling
+    4300026: Dining Room_Floor
+    4300028: Dining Room_Walls
+    4300030: KitchenNook_Ceiling
+    4300032: KitchenNook_Floor
+    4300034: KitchenNook_Walls
+    4300036: Family Room_Ceiling
+    4300038: Family Room_Floor
+    4300040: Family Room_Walls
+    4300042: Living Room_Floor
+    4300044: Living Room_Walls
+    4300046: Living Room_Ceiling
+    4300048: FirstToSecond
+    4300050: FoyerToDining
+    4300052: FoyerToKitchen
+    4300054: FoyerToLiving
+    4300056: KitchenToDining
+    4300058: LivingToFamily
+    4300060: KitchenToFamily
+    4300062: Foyer_Ceiling
+    4300064: Foyer_Walls
+    4300066: Foyer_Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

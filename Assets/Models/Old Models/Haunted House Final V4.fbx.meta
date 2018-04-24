@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: b1bf9dcd2cd8e224bb93f717847945b5
+timeCreated: 1470874246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Basement
+    100002: Basement_Stairs_Railing
+    100004: Basement_Stairs_Steps
+    100006: DiningChair
+    100008: DiningChair.001
+    100010: DiningChair.002
+    100012: DiningChair.003
+    100014: DiningChair.004
+    100016: DiningChair.005
+    100018: DiningChair.006
+    100020: DiningChair.007
+    100022: DiningRoom
+    100024: DiningTable
+    100026: Door Frame.001
+    100028: Door Frame.002
+    100030: Door Frame.003
+    100032: Door Frame.004
+    100034: Door Frame.005
+    100036: Door Frame.006
+    100038: Door Frame.007
+    100040: Door01
+    100042: Door01.001
+    100044: Exterior
+    100046: GroundFloor_DoorFrames
+    100048: GroundFloor_Doors
+    100050: GroundFloor_Floor
+    100052: GroundFloor_HalfWall
+    100054: GroundFloor_Stairs_Railing
+    100056: GroundFloor_Stairs_Riser
+    100058: GroundFloor_Stairs_Riser.001
+    100060: GroundFloor_Stairs_Steps
+    100062: GroundFloor_Walls
+    100064: GroundFloor_WindowFrames
+    100066: GroundFloorDoorWindowFrame
+    100068: GroundFloorDoorWindowFrame.001
+    100070: GroundFloorDoorWindowFrame.002
+    100072: GroundFloorDoorWindowFrame.011
+    100074: GroundFloorDoorWindowFrame.012
+    100076: GroundFloorDoorWindowFrame.013
+    100078: //RootNode
+    100080: SecondFloor_Floor
+    100082: SecondFloor_Walls
+    400000: Basement
+    400002: Basement_Stairs_Railing
+    400004: Basement_Stairs_Steps
+    400006: DiningChair
+    400008: DiningChair.001
+    400010: DiningChair.002
+    400012: DiningChair.003
+    400014: DiningChair.004
+    400016: DiningChair.005
+    400018: DiningChair.006
+    400020: DiningChair.007
+    400022: DiningRoom
+    400024: DiningTable
+    400026: Door Frame.001
+    400028: Door Frame.002
+    400030: Door Frame.003
+    400032: Door Frame.004
+    400034: Door Frame.005
+    400036: Door Frame.006
+    400038: Door Frame.007
+    400040: Door01
+    400042: Door01.001
+    400044: Exterior
+    400046: GroundFloor_DoorFrames
+    400048: GroundFloor_Doors
+    400050: GroundFloor_Floor
+    400052: GroundFloor_HalfWall
+    400054: GroundFloor_Stairs_Railing
+    400056: GroundFloor_Stairs_Riser
+    400058: GroundFloor_Stairs_Riser.001
+    400060: GroundFloor_Stairs_Steps
+    400062: GroundFloor_Walls
+    400064: GroundFloor_WindowFrames
+    400066: GroundFloorDoorWindowFrame
+    400068: GroundFloorDoorWindowFrame.001
+    400070: GroundFloorDoorWindowFrame.002
+    400072: GroundFloorDoorWindowFrame.011
+    400074: GroundFloorDoorWindowFrame.012
+    400076: GroundFloorDoorWindowFrame.013
+    400078: //RootNode
+    400080: SecondFloor_Floor
+    400082: SecondFloor_Walls
+    2300000: Basement
+    2300002: Basement_Stairs_Railing
+    2300004: Basement_Stairs_Steps
+    2300006: DiningChair
+    2300008: DiningChair.001
+    2300010: DiningChair.002
+    2300012: DiningChair.003
+    2300014: DiningChair.004
+    2300016: DiningChair.005
+    2300018: DiningChair.006
+    2300020: DiningChair.007
+    2300022: DiningTable
+    2300024: Door Frame.001
+    2300026: Door Frame.002
+    2300028: Door Frame.003
+    2300030: Door Frame.004
+    2300032: Door Frame.005
+    2300034: Door Frame.006
+    2300036: Door Frame.007
+    2300038: Door01
+    2300040: Door01.001
+    2300042: Exterior
+    2300044: GroundFloor_Floor
+    2300046: GroundFloor_HalfWall
+    2300048: GroundFloor_Stairs_Railing
+    2300050: GroundFloor_Stairs_Riser
+    2300052: GroundFloor_Stairs_Riser.001
+    2300054: GroundFloor_Stairs_Steps
+    2300056: GroundFloor_Walls
+    2300058: GroundFloorDoorWindowFrame
+    2300060: GroundFloorDoorWindowFrame.001
+    2300062: GroundFloorDoorWindowFrame.002
+    2300064: GroundFloorDoorWindowFrame.011
+    2300066: GroundFloorDoorWindowFrame.012
+    2300068: GroundFloorDoorWindowFrame.013
+    2300070: SecondFloor_Floor
+    2300072: SecondFloor_Walls
+    3300000: Basement
+    3300002: Basement_Stairs_Railing
+    3300004: Basement_Stairs_Steps
+    3300006: DiningChair
+    3300008: DiningChair.001
+    3300010: DiningChair.002
+    3300012: DiningChair.003
+    3300014: DiningChair.004
+    3300016: DiningChair.005
+    3300018: DiningChair.006
+    3300020: DiningChair.007
+    3300022: DiningTable
+    3300024: Door Frame.001
+    3300026: Door Frame.002
+    3300028: Door Frame.003
+    3300030: Door Frame.004
+    3300032: Door Frame.005
+    3300034: Door Frame.006
+    3300036: Door Frame.007
+    3300038: Door01
+    3300040: Door01.001
+    3300042: Exterior
+    3300044: GroundFloor_Floor
+    3300046: GroundFloor_HalfWall
+    3300048: GroundFloor_Stairs_Railing
+    3300050: GroundFloor_Stairs_Riser
+    3300052: GroundFloor_Stairs_Riser.001
+    3300054: GroundFloor_Stairs_Steps
+    3300056: GroundFloor_Walls
+    3300058: GroundFloorDoorWindowFrame
+    3300060: GroundFloorDoorWindowFrame.001
+    3300062: GroundFloorDoorWindowFrame.002
+    3300064: GroundFloorDoorWindowFrame.011
+    3300066: GroundFloorDoorWindowFrame.012
+    3300068: GroundFloorDoorWindowFrame.013
+    3300070: SecondFloor_Floor
+    3300072: SecondFloor_Walls
+    4300000: DiningChair.007
+    4300002: DiningChair.006
+    4300004: DiningChair.005
+    4300006: DiningChair.004
+    4300008: DiningChair.003
+    4300010: DiningChair.002
+    4300012: DiningChair.001
+    4300014: DiningChair
+    4300016: DiningTable
+    4300018: GroundFloor_Stairs_Riser.001
+    4300020: Door Frame.007
+    4300022: Door Frame.006
+    4300024: Door Frame.005
+    4300026: Door Frame.004
+    4300028: Door Frame.003
+    4300030: Door Frame.002
+    4300032: Door Frame.001
+    4300034: GroundFloorDoorWindowFrame.002
+    4300036: GroundFloorDoorWindowFrame.001
+    4300038: GroundFloorDoorWindowFrame.013
+    4300040: GroundFloorDoorWindowFrame.012
+    4300042: GroundFloorDoorWindowFrame.011
+    4300044: GroundFloorDoorWindowFrame
+    4300046: Basement
+    4300048: Basement_Stairs_Railing
+    4300050: Basement_Stairs_Steps
+    4300052: SecondFloor_Floor
+    4300054: GroundFloor_HalfWall
+    4300056: GroundFloor_Floor
+    4300058: Door01.001
+    4300060: Door01
+    4300062: Exterior
+    4300064: GroundFloor_Walls
+    4300066: GroundFloor_Stairs_Riser
+    4300068: GroundFloor_Stairs_Steps
+    4300070: GroundFloor_Stairs_Railing
+    4300072: SecondFloor_Walls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
